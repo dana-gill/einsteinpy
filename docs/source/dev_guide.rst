@@ -64,7 +64,7 @@ Learn more about Python virtual environments `here <https://docs.python.org/3/tu
 
 .. code:: bash
 
-   $ pip install -e ./einsteinpy/[dev]
+   $ pip install -e ./[dev]
  
 ``[dev]`` ensures that all the dependencies required for development and 
 testing are installed, while the ``-e`` or ``--editable`` flag ensures that any changes you make to the code 
